@@ -1,7 +1,7 @@
 # Cleversort 
 
 *Cleversort* is a workflow based collaboration application: [cleversort.com](https://cleversort.com/).
-The mobile application was developed with React Native, uses Firebase as a backend, including Cloud Functions to handle notifications and database updates and also provides Google OAuth authentication, in addition to .
+The mobile application was developed with React Native, uses Firebase as a backend, including Cloud Functions to handle notifications and database updates and also provides Google OAuth authentication, in addition to email and password based authentication.
 
 It manages checklists and tasks:
 <div>
