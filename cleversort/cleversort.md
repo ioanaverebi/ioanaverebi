@@ -23,7 +23,10 @@ It allows filtering, creating and updating tasks:
 </div>
 
 The app includes notifications when a task is overdue, marked as completed, etc.
+<div>
 <a href="url"><img src="./notifications.png" width="400"></a>
+</div>
+
 
 And a user management and profile setup.
 <div>
